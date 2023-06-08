@@ -32,7 +32,7 @@ struct ContentView: View {
                 }
                 
                 HStack {
-                    Text("she/her | 15 | filipina |")
+                    Text("she/her | lvl 15 | filipina |")
                         .foregroundColor(/*@START_MENU_TOKEN@*/Color(hue: 1.0, saturation: 0.465, brightness: 0.284)/*@END_MENU_TOKEN@*/)
                     
                     Image("bi")
